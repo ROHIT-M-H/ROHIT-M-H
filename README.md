@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.E in **Computer Science & Engineering** @ SDM College of Engineering and Technology, Dharwad | CGPA: **8.25**
+- 🎓 B.E in **Computer Science & Engineering** @ SDM College of Engineering and Technology, Dharwad | CGPA: **8.41**
 - 💼 Ex-Factory DX SDE Intern @ **Toyota Kirloskar Motors** as a **Full Stack Developer** (React.js + .NET + MS SQL Server)
 - 🔭 Working on **Web Applications**, **AI/ML**, and **EEG-based Emotion Recognition**
 - 🌱 Currently deepening my skills in **React**, **.NET**, **PyTorch**, and **Deep Learning**
