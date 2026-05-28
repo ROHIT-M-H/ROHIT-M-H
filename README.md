@@ -88,3 +88,4 @@
 - 📧 Email: rohitmh2004@gmail.com
 - 💼 LinkedIn: [rohitmh1](https://www.linkedin.com/in/rohitmh1)
 - 🐙 GitHub: [ROHIT-M-H](https://github.com/ROHIT-M-H)
+- ✖️ X: [ROHITMH_1](https://x.com/ROHITMH_1)
