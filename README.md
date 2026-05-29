@@ -74,13 +74,12 @@
 
 ## 📊 My Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT-M-H&theme=dark&hide_border=true"/>
-</p>
+</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT-M-H&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ROHIT-M-H&theme=dark&hide_border=true"/>
 </p>
-
 ---
 
 ## 📬 Contact
